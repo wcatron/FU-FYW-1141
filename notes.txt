@@ -80,7 +80,7 @@ Achilles is angry. Achilles cries to his mother.
 Achilles is angry and so cries to his mother. // no comma because the subject is the same.
 Achilles is angry, and so he cries to his mother. // requires comma because it's two independent clauses.
 
-Achilles is angry; his mother is sympathetic. //Could easily be two sentences
-
+Achilles is angry; his mother is sympathetic. //Could easily be two sentences. Semicolon is okay when it replaces a period and for some reason doesn't need a stronger connection.
+Achilles is angry and his mother is sympathetic. //Strong connection
 
 
