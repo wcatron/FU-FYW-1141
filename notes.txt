@@ -67,7 +67,7 @@ After Dark Ages 800 BCE
 -New alphabet that was easy to learn. Many people learned how to read and write.
 -Busted potery was the scrap paper of the ancient world 
 
-Textual Variation
+### Textual Variation
 -As you make copies of documents the variation increases until we see the printing press.
 
 Compared to Iliad
@@ -87,7 +87,7 @@ Aiantov - Even the greek scholars didn't know what the words meant. They just wr
 Aiamno - Means well-fitted based on very old Linear B
 Can fit into Iliad in place of Aiantov.
 
-Verbal Tense
+### Verbal Tense
 before... couldn't talk about things in the past as well.
 now...
 Can talk about the past, and the future
@@ -119,6 +119,49 @@ Achilles is angry; his mother is sympathetic. //Could easily be two sentences. S
 Achilles is angry and his mother is sympathetic. //Strong connection
 
 Read Aenied Book 1 & 2
+
+# Common Aprevations
+i.e. 		(id est) = "that is...; To wit..." - Explaination, another way of saying what you just said. Sometimes helpful if you are doing something complicated.
+e.g. 		(est gerendum) = "For example..." - For example, I am going to give you an example of what I just talked about.
+n.b. 		(nota bene) = "Note well..." - Hey here is something you should pay attention to.
+s.v. 		(sub vocem) = "Look this thing up under the heading..." e.g. "Aeneas is the son of Venus **s.v. Aphrodite**"
+vel sim.	(vel similia) = "or similar things" - fancy way of saying etc., stuff like that, val sim. 
+etc.		(et cetera) = "and the other things; And others" - Et Katera 
+&c.		(et cetera) because & = et = Ampersand = "And per se." 
+
+# Active and Passive Voice
+  sub.     v.      d.o.
+Achilles abuses Agamemnon.
+ subject |   predicate    |
+    s    | v       do     |
+
+##English realise on word order.
+
+1. Achilles abuses Agamemnon.
+2. Agamemnon abuses Achilles.
+
+3. Achilles is    abused by    Agamemnon.
+       s     v  agency phrase    do 
+
+3 = 2; 2 better than 3;Passive voice
+
+Mistakes were made.
+   s       v   
+
+Useful use of **passive voice** without using agency phrase. Admit to mistakes and saying you're 
+Called passive voice - Passo "suffer or experience" - The subject suffers/experinces the action being done on them
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
